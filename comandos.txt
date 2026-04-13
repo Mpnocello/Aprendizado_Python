@@ -1,0 +1,19 @@
+PARA CRIAR
+
+python -m venv .venv
+
+
+ATIVAR
+
+.\.venv\Scripts\activate
+
+
+DESATIVAR
+
+deactivate
+
+
+ATUALIZAR OS REQUERIMENTOS DO PROJETO
+
+pip freeze > requirements.txt
+
